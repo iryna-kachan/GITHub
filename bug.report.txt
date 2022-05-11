@@ -1,0 +1,9 @@
+ID:"..."
+Summary :"..." 
+Severity: "critical","major","medium","minor"
+Description: "..."
+Steps to reproduce": "..."
+Actual result:"..."
+Expected result:"..."
+Attachments:"..."
+
